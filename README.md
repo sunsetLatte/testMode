@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/on289u789hnjkxe7?svg=true)](https://ci.appveyor.com/project/sunsetLatte/testmode)
